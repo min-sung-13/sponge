@@ -1,0 +1,19 @@
+@media ( max-width: 768px ) {
+    .footer {display: none;}
+}  
+
+/*footer*/
+.footer { height: 30px; margin-top: 30px; border-top:  0.4px solid #eaeaea; width: 100%; clear: both; }
+#foot_01 {padding: 8px 0;}
+#foot_02 {padding-top: 20px; padding-bottom: 20px; height: 60px; border-top:  0.4px solid #eaeaea;}
+#foot_01 .foot_01_list {display: inline-block; padding-right: 40px; font-size: small; font-weight: bold; }
+#foot_02 .foot_02_list {display: inline-block;  font-size: xx-small; font-weight: bold; color: gray; line-height: 15px; }
+#foot_02_list02 {margin-left: 180px;line-height: 20px;}
+#foot_02 > .inner_box > div:nth-child(1) > span:nth-child(2) {font-size: x-large; color: black;}
+.appLogoList {width: 220px; font-size: 11px; font-weight: bold; float: right; }
+.logoImg{display: inline-block;}
+.appLogo{display: inline-block; margin-left: 10px;}
+.logoT{float: right; margin-top: 10px;}
+.fontG {color: gray; margin: 5px 0;}
+.fontB {color: black; margin: 5px 0;}
+.fund_under {float: right;}
