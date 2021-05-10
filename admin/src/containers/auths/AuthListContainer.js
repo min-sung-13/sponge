@@ -8,7 +8,7 @@ import AuthList from '../../components/common/authList/AuthList'
 
 const AuthListContainer = ({location}) => {
     const dispatch = useDispatch();
-    const {auths, error, loading } = useSelector(({auths, loading, user}) => ({
+    const {auths, error, loading } = useSelector(({ auths, loading, user }) => ({
             auths: auths.auths,
             error: auths.error,
             loading: loading['auth/LIST_AUTHS'],
