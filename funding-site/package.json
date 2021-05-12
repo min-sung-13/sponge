@@ -20,7 +20,6 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "axios": "^0.20.0",
-    "gh-pages": "^3.1.0",
     "imgbb-uploader": "^1.1.0",
     "immer": "^7.0.9",
     "jquery": "^3.5.1",
@@ -75,6 +74,7 @@
     "@ckeditor/ckeditor5-alignment": "^23.1.0",
     "@ckeditor/ckeditor5-dev-utils": "^23.6.1",
     "@ckeditor/ckeditor5-theme-lark": "^23.1.0",
+    "gh-pages": "^3.1.0",
     "raw-loader": "^4.0.2"
   }
 }
